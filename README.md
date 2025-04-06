@@ -1,27 +1,75 @@
-## Hi there 👋
+<h1 align="center">
+  Hey, I'm Raghav 👋
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AR/VR+Web+Explorer;Vision+Pro+Web+Dreamer;&center=true&width=500&height=45">
+</h1>
 
-**ClashMasterRaghav/ClashMasterRaghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ClashMasterRaghav&style=for-the-badge&color=blueviolet" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 About Me
+
+- 🧠 Building: `WebXR apps`, `Vision Pro-style UI`, `React+Three.js experiences`
+- 🌱 Learning: `AR.js`, `Three.js`, `Unity for visionOS`, `LLMs`
+- 👯 Collaborating on: Open Source XR tools, Interactive Learning Projects
+- 💬 Ask me about: React, WebXR, SUMO, GitHub Actions, Firebase
+- 📫 Reach me: [Portfolio](https://your-site.com) | [Email](mailto:youremail@example.com)
+- ⚡ Fun fact: I name my projects like they're anime episodes.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,threejs,html,css,nodejs,firebase,py,git,vscode&theme=dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <h2>My GitHub Stats</h2>
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/ClashMasterRaghav">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClashMasterRaghav&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClashMasterRaghav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClashMasterRaghav&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="200"/>
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ClashMasterRaghav&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClashMasterRaghav&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourhandle">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡️ Quote to Code By
+
+> *“The best way to predict the future is to invent it.”* — Alan Kay
