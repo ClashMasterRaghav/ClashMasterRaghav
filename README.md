@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6562fc&height=200&section=header&text=RaghavJoshi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6562FC&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;WebXR+%26+Three.js+Expert;Vision+Pro+Web+Architect;Immersive+Digital+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6562fc&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Wizard+🧙‍♂️;WebXR+%7C+Three.js+Conjurer+🔮;Vision+Pro+MetaArchitect+👓;Immersive+Web+Explorer+🌐" />
 </div>
+
 
 <p align="center">
   <a href="#">
@@ -34,6 +36,10 @@ const raghav = {
 - 👾 Always ready to **collaborate on immersive open source projects**
 - 💬 Ask me about **React, Three.js, AR.js, and all things XR**
 - 📫 Reach me at **[youremail@example.com](mailto:youremail@example.com)**
+
+<div align="center">  
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwODg3MjgsIm5iZiI6MTc0NTA4ODQyOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE5VDE4NDcwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyOTAyMzU4OGY3NDE4NmZjYzVmMDM5ZjQwNTFhMDI5MmU5M2I3OTQ4NzE0ODJjNTNlMjE3YWI4M2JmOTlmZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aFroFPoFsQC4oPYVWep_M7C7dKfDmmVZfJpRVPab8TA" width="50%" >
+</div>
 
 <br>
 
